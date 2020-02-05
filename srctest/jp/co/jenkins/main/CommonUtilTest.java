@@ -15,4 +15,8 @@ class CommonUtilTest {
 		Assertions.assertEquals(CommonUtil.CalcAdd(1, 2), 3);
 	}
 
+	@Test
+	public void CalcSub_Test() {
+		Assertions.assertEquals(CommonUtil.CalcSub(1, 1), 0);
+	}
 }

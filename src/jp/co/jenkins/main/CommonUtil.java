@@ -10,4 +10,8 @@ public class CommonUtil {
 		return x + y;
 	}
 
+	public static int CalcSub(int x, int y) {
+		return x - y;
+	}
+
 }
