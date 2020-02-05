@@ -6,5 +6,4 @@ public class Main {
 		System.out.println(CommonUtil.Format("Hello"));
 		System.out.println(CommonUtil.CalcAdd(3, 6));
 	}
-
 }
