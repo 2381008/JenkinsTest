@@ -18,5 +18,6 @@ class CommonUtilTest {
 	@Test
 	public void CalcSub_Test() {
 		Assertions.assertEquals(CommonUtil.CalcSub(17, 2), 0);
+	}
 
 }
