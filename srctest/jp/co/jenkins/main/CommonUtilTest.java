@@ -12,7 +12,7 @@ class CommonUtilTest {
 
 	@Test
 	public void CalcAdd_Test() {
-		Assertions.assertEquals(CommonUtil.CalcAdd(2, 3), 5);
+		Assertions.assertEquals(CommonUtil.CalcAdd(3, 3), 6);
 	}
 
 	@Test
